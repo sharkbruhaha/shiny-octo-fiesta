@@ -1483,6 +1483,20 @@ Ability.create!(
 
 # Y - abilities
 
+Ability.create!(
+  name: 'You Studied',
+  kind: 'Enabler',
+  page: 200,
+  pool: 'N/A',
+  cost: "N/A",
+  category: 'Task',
+  power: 'Mid',
+  foci: 'Solves Mysteries',
+  set: 'N/A',
+  types: 'N/A',
+  flavor: 'N/A',
+  note: ''
+)
 
 # Z - abilities
 
