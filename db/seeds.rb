@@ -1,6 +1,8 @@
 
 Ability.delete_all
 
+# A - abilities
+
 Ability.create!(
   name: 'A Smile and a Word',
   page: 108,
@@ -721,6 +723,8 @@ Ability.create!(
   note: ''
 )
 
+# B - abilities
+
 Ability.create!(
   name: 'Babel',
   kind: 'Enabler',
@@ -1405,6 +1409,92 @@ Ability.create!(
   category: 'Movement',
   power: 'Mid',
   foci: 'N/A',
+  set: 'N/A',
+  types: 'N/A',
+  flavor: 'N/A',
+  note: ''
+)
+
+# C - abilities
+
+
+# D - abilities
+
+
+# E - abilities
+
+
+# F - abilities
+
+
+# G - abilities
+
+
+# H - abilities
+
+
+# I - abilities
+
+
+# J - abilities
+
+
+# K - abilities
+
+
+# L - abilities
+
+
+# M - abilities
+
+
+# N - abilities
+
+
+# O - abilities
+
+
+# P - abilities
+
+
+# Q - abilities
+
+
+# R - abilities
+
+
+# S - abilities
+
+
+# T - abilities
+
+
+# U - abilities
+
+
+# V - abilities
+
+
+# W - abilities
+
+
+# X - abilities
+
+
+# Y - abilities
+
+
+# Z - abilities
+
+Ability.create!(
+  name: 'Zero Dark Eyes',
+  kind: 'Enabler',
+  page: 200,
+  pool: 'N/A',
+  cost: "N/A",
+  category: 'Task',
+  power: 'Low',
+  foci: 'Plays too Many Games',
   set: 'N/A',
   types: 'N/A',
   flavor: 'N/A',
